@@ -1,3 +1,2 @@
-# hello-world
-a first test repository
-Just started using githib.
+# AIM Photonics Repo
+A repositiory to store AIM Acadmy notbeoks for sharing.
